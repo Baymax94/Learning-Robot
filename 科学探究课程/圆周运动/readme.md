@@ -1,4 +1,4 @@
 # 圆周运动装置结构模型  
-[乐聚·星原力](http://www.lejuxyuanli.com/)  
-* [科学探究实验1.1.pdf](https://github.com/Baymax94/Learning-Robot/files/3314006/1.1.pdf)  
-* [python在人工智能教学中的应用2.pptx](https://github.com/Baymax94/Learning-Robot/files/3314011/python.2.pptx)
+[研究报告.docx](https://github.com/Baymax94/Learning-Robot/files/3314059/default.docx)  
+![结构图](https://user-images.githubusercontent.com/26005547/59916478-d8ad2b00-9451-11e9-93c8-45a34eaf9434.png)  
+![实物图](https://user-images.githubusercontent.com/26005547/59916479-d8ad2b00-9451-11e9-8727-dea89f0b1114.png)  
