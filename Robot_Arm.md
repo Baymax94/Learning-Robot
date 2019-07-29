@@ -16,8 +16,8 @@
 + 光敏模块
 + 
 + 案例  
-[案例1](https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-21399234421.59.5f34137dm6Sv6d&id=593056862268&rn=75b8f9362961a5c6ce8e410e7d91e0a2&abbucket=4)  
-[案例2](https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-21399234421.74.5f34137dm6Sv6d&id=593131686890&rn=75b8f9362961a5c6ce8e410e7d91e0a2&abbucket=4)
+    + [案例1](https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-21399234421.59.5f34137dm6Sv6d&id=593056862268&rn=75b8f9362961a5c6ce8e410e7d91e0a2&abbucket=4)  
+    + [案例2](https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-21399234421.74.5f34137dm6Sv6d&id=593131686890&rn=75b8f9362961a5c6ce8e410e7d91e0a2&abbucket=4)
 []()
 
 3.动作应用案例  
@@ -26,8 +26,8 @@
     + 数码字
 + 作画
 + 下棋  
-[视频1](http://www.iqiyi.com/w_19s6o72x7d.html)  
-[视频2](https://www.bilibili.com/video/av46311066?from=search&seid=922047197493877245)
+    + [视频1](http://www.iqiyi.com/w_19s6o72x7d.html)  
+    + [视频2](https://www.bilibili.com/video/av46311066?from=search&seid=922047197493877245)
 + 
 
 
